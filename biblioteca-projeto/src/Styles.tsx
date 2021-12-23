@@ -9,7 +9,7 @@ const useStyles = makeStyles({
         marginLeft:"20px",
     },
     News:{
-        width:"30%",
+        width:"35%",
         display: "block",
         marginRight:"auto",
         marginLeft:"auto",
